@@ -1,9 +1,7 @@
 # UAS2-NLP
 UAS2-NLP
 
-Nama : 
-Eka Risti
-Tresna
+Nama :Eka Risti, Tresna
 
 Analisis Sentimen Skripsi pada Twitter Menggunakan Metode Naïve Bayes Classifier
 Tujuan : untuk mengetahui bagaimana tanggapan masyarakat terhadap skripsi
