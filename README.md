@@ -1,13 +1,6 @@
-# UAS2-NLP
-
-```bash 
-Disusun Oleh : 
-1. Eka Risti
-2. Tresna
-```
+# UAS2-NLP-Analisis Sentimen Ulasan Aplikasi Pintu di Play Store Menggunakan Metode Naive Beyes
 
 ```bash
-Analisis Sentimen Ulasan Aplikasi Pintu di Play Store Menggunakan Metode Naive Beyes
 Tujuan : untuk mengetahui bagaimana tanggapan masyarakat terhadap aplikasi pintu 
 ```
 
@@ -15,6 +8,11 @@ Tujuan : untuk mengetahui bagaimana tanggapan masyarakat terhadap aplikasi pintu
 Pintu adalah aplikasi jual/beli dan investasi aset digital (cryptocurrency) yang mudah, praktis, dan instan di Indonesia.
 ```
 
+```bash 
+Disusun Oleh : 
+1. Eka Risti
+2. Tresna
+```
 
 # Tahapan 
 1. Scraping data
