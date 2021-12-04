@@ -9,9 +9,9 @@ Pintu adalah aplikasi jual/beli dan investasi aset digital (cryptocurrency) yang
 ```
 
 ```bash 
-Disusun Oleh : 
-1. Eka Risti
-2. Tresna
+Disusun Oleh Kelompok 2: 
+1. Eka Risti Nailah Heruawan (7A PSTI)
+2. Tresna Ramadhian Setya WG (7B PSTI)
 ```
 
 # Tahapan 
