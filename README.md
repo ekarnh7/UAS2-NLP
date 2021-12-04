@@ -2,7 +2,8 @@
 
 ```bash 
 Disusun Oleh : 
-Nama :Eka Risti, Tresna
+1. Eka Risti
+2. Tresna
 ```
 
 ```bash
@@ -15,7 +16,7 @@ Pintu adalah aplikasi jual/beli dan investasi aset digital (cryptocurrency) yang
 ```
 
 
-##Tahapan 
+# Tahapan 
 1. Scraping data
 2. Pre-Processing text : case folding, tokenizing, stemming
 3. Analisis Sentiment
