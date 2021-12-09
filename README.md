@@ -16,8 +16,19 @@ Disusun Oleh Kelompok 2:
 2. Tresna Ramadhian Setya WG (7B PSTI)
 ```
 
-# Tahapan 
+# Background
+Saat ini aplikasi yang berkaitan dengan jual/beli dan investasi aset digital sangat digemari oleh masyarakat. Salah satu aplikasi jual/beli dan investasi yang dikenal di Indonesia adalah aplikasi pintu. Untuk mengetahui feedback dari masyarakat mengenai aplikasi pintu kami akan melakukan analisis sentimen aplikasi pintu dengan menggunakan dataset yang ada pada playstore. Kami mengambil dataset menggunakan teknik scraping, dimana scraping merupakan proses mengumpulkan informasi dari internet, pada studi kasus ini kami mengmabil data tersebut dari playstore. Dataset yang digunakan sebanyak 1000 data. 
+
+
+# Objective
+
+
+# Metrics
+
+# Step Pengembangan
 1. Scraping data
 2. Pre-Processing text : case folding, tokenizing, stemming
 3. Metrics
 4. Modelling : Naive Beyes
+
+# 
