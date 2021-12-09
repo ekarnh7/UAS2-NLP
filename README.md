@@ -4,6 +4,8 @@
 Tujuan : untuk mengetahui bagaimana tanggapan masyarakat terhadap aplikasi pintu 
 ```
 
+![logo](Assets/logo.png)
+
 ```bash 
 Pintu adalah aplikasi jual/beli dan investasi aset digital (cryptocurrency) yang mudah, praktis, dan instan di Indonesia.
 ```
@@ -17,5 +19,5 @@ Disusun Oleh Kelompok 2:
 # Tahapan 
 1. Scraping data
 2. Pre-Processing text : case folding, tokenizing, stemming
-3. Analisis Sentiment
-4. Naive Bayes Classifier
+3. Metrics
+4. Modelling : Naive Beyes
