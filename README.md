@@ -4,7 +4,7 @@
 Tujuan : untuk mengetahui bagaimana tanggapan masyarakat terhadap aplikasi pintu 
 ```
 
-![logo](Assets/logo.png)
+![logo](Src/logo.png)
 
 ```bash 
 Pintu adalah aplikasi jual/beli dan investasi aset digital (cryptocurrency) yang mudah, praktis, dan instan di Indonesia.
