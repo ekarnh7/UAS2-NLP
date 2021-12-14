@@ -33,7 +33,7 @@ Berikut merupakan struktur projek :
    Berisi file noteboks dan jenis file lainnya
 5. Folder Output\
    Berisi hasil dataset yang sudah bersih
-6. Folder Model
+6. Folder Model\
    Berisi hasil dari training model 
   
   
