@@ -48,4 +48,4 @@ Kami membagi dataset menjadi dua bagian yaitu :
 
 
 # Cara Menjalankan Projek 
-- Jalankan src/....
+- Jalankan src/nama file
