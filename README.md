@@ -15,25 +15,25 @@ Saat ini aplikasi yang berkaitan dengan jual/beli dan investasi aset digital san
 
 # Dataset
 Kami menggunakan dataset PINTU yang ada pada playstore dengan menggunakan teknik scraping, dimana scraping merupakan proses mengumpulkan informasi dari internet, pada studi kasus ini kami mengambil data tersebut dari playstore. Dataset yang digunakan sebanyak 1000 data, karena dataset pada playstore telah memiliki rating 1-5, oleh karena itu kami memberikan label pada setiap feedback/ulasan seperti berikut :
-1. Bernilai NEGATIF jika rating yang diberikan 1,2 atau 3
+1. Bernilai NEGATIF, jika rating yang diberikan 1,2 atau 3
 2. Bernilai POSITIF, jika rating yang diberikan 4 atau 5
 
 
 # Struktur Projek
 Berikut merupakan struktur projek :
-1. File Readme 
+1. File Readme\
    Berisi keterangan baik mengenai background, dataset, struktur projek, metrik, evaluasi, dan bagaimana cara menjalankan projek
-2. File Requirements
+2. File Requirements\
    Berisi library yang digunakan
-4. Folder Data
+4. Folder Data\
    Berisi dataset yang mentah atau dataset yang telah difilter berdasarkan varibael yang akan digubakan
-3. Folder Parameter 
+3. Folder Parameter\
    Berisi keterangan mengenai lokasi path secara detail
-4. Folder Src
+4. Folder Src\
    Berisi file noteboks dan jenis file lainnya
-5. Folder Output 
+5. Folder Output\
    Berisi hasil dataset yang sudah bersih
-6. Folder Model 
+6. Folder Model\ 
    Berisi hasil dari training model 
   
   
