@@ -1,5 +1,10 @@
-Berikut requirement pada projek sentimen analisis aplikasi PINTU :
+Berikut requirement pada projek analisis sentimen aplikasi PINTU :
 
 1. Text editor visual Studio versi 1.63 : https://code.visualstudio.com/?wt.mc_id=vscom_downloads
 2. Bahasa pemrograman python versi 3.10.1 : https://www.python.org/downloads/windows/
 3. Environment python dengan anacoda versi 4.10.3 : https://www.anaconda.com/products/individual#windows
+4. Library google-play-scraper : Untuk mendapatkan dataset pada aplikasi google play store 
+5. Library numpy : Libarary python yang fokus pada scientific computing 
+6. Library pandas : Library python yang fokus pada analisis data seperti manipulasi data, persiapan data dan pembersihan data
+7. Library NLTK : Library python membantu mempermudah dalam memproses teks seperti tokenization, filtering, dll
+8. Library sastrawi : Library python yang dapat mengubah kata berimbuhan menjadi kata dasar
