@@ -1,0 +1,5 @@
+Berikut requirement pada projek sentimen analisis aplikasi PINTU :
+
+1. Text editor visual Studio versi 1.63 : https://code.visualstudio.com/?wt.mc_id=vscom_downloads
+2. Bahasa pemrograman python versi 3.10.1 : https://www.python.org/downloads/windows/
+3. Environment python dengan anacoda versi 4.10.3 : https://www.anaconda.com/products/individual#windows
