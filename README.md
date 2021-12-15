@@ -38,7 +38,7 @@ Berikut merupakan struktur projek :
   
   
 # Metrik 
-Kami menggunakan metriks .....
+Kami menggunakan beberapa metrik yaitu accuracy, precission, recall, dan f1
 
 
 # Evaluasi
