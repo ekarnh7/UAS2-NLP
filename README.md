@@ -32,13 +32,11 @@ Berikut merupakan struktur projek :
    Berisi library yang digunakan
 4. Folder Data\
    Berisi dataset yang mentah atau dataset yang telah difilter berdasarkan varibael yang akan digubakan
-3. Folder Parameter\
-   Berisi keterangan mengenai lokasi path secara detail
-4. Folder Src\
+5. Folder Src\
    Berisi file noteboks dan jenis file lainnya
-5. Folder Output\
+6. Folder Output\
    Berisi hasil dataset yang sudah bersih
-6. Folder Model\
+7. Folder Model\
    Berisi hasil dari training model 
 
   
