@@ -10,17 +10,17 @@ Disusun Oleh Kelompok 2:
 ```
 
 # Background
-```bash
+
 Saat ini aplikasi yang berkaitan dengan jual/beli dan investasi aset digital sangat digemari oleh masyarakat. <\br>
 Salah satu aplikasi jual/beli dan investasi yang dikenal di Indonesia adalah aplikasi PINTU. \
 Berdasarkan halaman berita suara.com (https://www.suara.com/bisnis/2021/12/10/060455/aplikasi-aset-crypto-pintu-telah-diunduh-2-juta-kali), \
 saat ini aplikasi PINTU telah diunduh hingga 2 juta kali dengan pengguna aktif mencapai lebih dari 700 ribu. \
 Untuk mengetahui feedback dari masyarakat mengenai aplikasi PINTU, pada project UAS 2 ini kami akan melakukan analisis sentimen aplikasi PINTU. 
-```
+
 
 
 # Dataset
-```bash
+
 Kami menggunakan dataset PINTU yang ada pada playstore dengan menggunakan teknik scraping,\ 
 dimana scraping merupakan proses mengumpulkan informasi dari internet,\
 pada studi kasus ini kami mengambil data tersebut dari playstore.\
@@ -28,11 +28,11 @@ Dataset yang digunakan sebanyak 1000 data, karena dataset pada playstore telah m
 oleh karena itu kami memberikan label pada setiap feedback/ulasan seperti berikut :
 1. Bernilai NEGATIF, jika rating yang diberikan 1,2 atau 3
 2. Bernilai POSITIF, jika rating yang diberikan 4 atau 5
-```
+
 
 
 # Struktur Projek
-```bash
+
 Berikut merupakan struktur projek :
 1. File Readme\
    Berisi keterangan baik mengenai background, dataset, struktur projek, metrik, evaluasi, dan bagaimana cara menjalankan projek
@@ -48,7 +48,7 @@ Berikut merupakan struktur projek :
    Berisi hasil dataset yang sudah bersih
 6. Folder Model\
    Berisi hasil dari training model 
-```
+
   
   
 # Metrik 
