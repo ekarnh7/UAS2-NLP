@@ -11,7 +11,7 @@ Disusun Oleh Kelompok 2:
 
 # Background
 ```bash
-Saat ini aplikasi yang berkaitan dengan jual/beli dan investasi aset digital sangat digemari oleh masyarakat. \
+Saat ini aplikasi yang berkaitan dengan jual/beli dan investasi aset digital sangat digemari oleh masyarakat. <\br>
 Salah satu aplikasi jual/beli dan investasi yang dikenal di Indonesia adalah aplikasi PINTU. \
 Berdasarkan halaman berita suara.com (https://www.suara.com/bisnis/2021/12/10/060455/aplikasi-aset-crypto-pintu-telah-diunduh-2-juta-kali), \
 saat ini aplikasi PINTU telah diunduh hingga 2 juta kali dengan pengguna aktif mencapai lebih dari 700 ribu. \
