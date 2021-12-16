@@ -44,8 +44,9 @@ Kami menggunakan beberapa metrik yaitu accuracy, precission, recall, dan f1
 # Evaluasi
 Kami membagi dataset menjadi dua bagian yaitu :
 1. 70%, untuk data training
-2. 30%, untunk data test
+2. 30%, untuk data test
 
 
 # Cara Menjalankan Projek 
-- Jalankan src/nama file
+
+[Hasil analisis sentimen aplikasi PINTU path= ("../src/analisis_sentimen.ipynb"](../src/analisis_sentimen.ipynb)
