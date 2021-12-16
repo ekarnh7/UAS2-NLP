@@ -49,4 +49,4 @@ Kami membagi dataset menjadi dua bagian yaitu :
 
 # Cara Menjalankan Projek 
 
-[Hasil analisis sentimen aplikasi PINTU path= ("../src/analisis_sentimen.ipynb")](../src/analisis_sentimen.ipynb)
+[Hasil analisis sentimen aplikasi PINTU path= ("src/analisis_sentimen.ipynb")](src/analisis_sentimen.ipynb)
