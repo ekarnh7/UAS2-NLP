@@ -44,9 +44,9 @@ Berikut merupakan struktur projek :
   
   
 # Metrik 
-```bash
-Kami menggunakan beberapa metrik yaitu accuracy, precission, recall, dan f1
-```
+
+Kami menggunakan beberapa metrik yaitu accuracy, precission, recall, dan f1. Berdasarkan hasil dari confusion metrix dataset aplikasi PINTU memiliki jumlah False Negatif (FN) = 2, sedangkan False Positif (FP) = 184, sehingga antara jumlah FN dan FP tidak mendekati oleh karena itu kami memilih metrix F1 sebagai acuan.
+
 
 
 # Evaluasi
@@ -60,5 +60,5 @@ Kami membagi dataset menjadi dua bagian yaitu :
 
 ```bash
 Hasil analisis sentimen aplikasi PINTU\
-Path = ("../src/analisis_sentimen.ipynb")
+Path = ("src/analisis_sentimen.ipynb")
 ```
