@@ -59,6 +59,6 @@ Kami membagi dataset menjadi dua bagian yaitu :
 # Cara Menjalankan Projek 
 
 ```bash
-Hasil analisis sentimen aplikasi PINTU\
+Hasil analisis sentimen aplikasi PINTU
 Path = ("src/analisis_sentimen.ipynb")
 ```
